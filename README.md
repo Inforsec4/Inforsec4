@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jastine John,Security Engineer
+- 👋 Hi, I’m Jastine John
+-     Security Engineering Student
 - 👀 I’m interested in Security Analysis and Web Designing
 - 🌱 I’m currently learning Web Security
 - 💞️ I’m looking to collaborate on Information Security
